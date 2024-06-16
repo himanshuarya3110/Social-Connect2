@@ -30,7 +30,6 @@ Welcome to the MERN Social Media Application! This README provides an overview o
   - Express.js
   - MongoDB (with Mongoose for object modeling)
   - JWT (for authentication)
-  - Socket.IO (for real-time features)
   - Bcrypt.js (for password hashing)
 
 ## Prerequisites

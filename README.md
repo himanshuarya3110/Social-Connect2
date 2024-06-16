@@ -24,7 +24,6 @@ Welcome to the MERN Social Media Application! This README provides an overview o
   - React
   - Redux (for state management)
   - Axios (for API requests)
-  - Socket.IO (for real-time features)
 
 - **Backend:**
   - Node.js

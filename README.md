@@ -1,4 +1,4 @@
-# DevConnect Social Media MERN Application
+# Social-Connect MERN Application
 
 Welcome to the MERN Social Media Application! This README provides an overview of the project, including setup instructions, features, and technologies used. This application is built using the MERN stack (MongoDB, Express.js, React, and Node.js) and provides a fully functional social media platform.
 
